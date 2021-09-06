@@ -3,5 +3,6 @@ A bash script to get the current World Record for each full-game leaderboard cat
 All it requires is a steam id as arg1 and jq to be installed
 
 
-`<./WRG.sh *STEAM ID*>`
+`./WRG.sh *STEAM ID*`
+
 ![](https://raw.githubusercontent.com/crysal/crysal.github.io/master/images/issalive2.gif)
