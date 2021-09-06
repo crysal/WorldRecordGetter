@@ -6,3 +6,7 @@ All it requires is a steam id as arg1 and [jq](http://manpages.ubuntu.com/manpag
 `./WRG.sh *STEAM ID*`
 
 ![](https://raw.githubusercontent.com/crysal/crysal.github.io/master/images/issalive2.gif)
+
+
+*
+Uses the v1 api from [speedruncomorg](https://github.com/speedruncomorg)
